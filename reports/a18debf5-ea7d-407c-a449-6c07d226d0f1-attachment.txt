@@ -1,0 +1,62 @@
+
+RequestURL: http://127.0.0.1:5000/api/users
+request header: {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive', 'Content-Type': 'application/json', 'x-access-token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJleHAiOjE3MDM2ODc5ODR9.D_mmSjDFo_KxARkOc6JijdGIa4MtRLDyQGrYUtyq5LQ'}
+response header: {'Server': 'Werkzeug/3.0.1 Python/3.12.1', 'Date': 'Wed, 27 Dec 2023 14:24:44 GMT', 'Content-Type': 'application/json', 'Content-Length': '1280', 'Connection': 'close'}
+{
+    "users": [
+        {
+            "authenticated": true,
+            "email": "admin@admin",
+            "id": 1,
+            "registered_on": "2022-03-07T20:33:20.763559"
+        },
+        {
+            "authenticated": false,
+            "email": "user1@user",
+            "id": 2,
+            "registered_on": "2022-03-08T00:52:52.872602"
+        },
+        {
+            "authenticated": false,
+            "email": "kk@admin",
+            "id": 3,
+            "registered_on": "2022-03-08T13:01:22.802225"
+        },
+        {
+            "authenticated": false,
+            "email": "autom1@auto",
+            "id": 4,
+            "registered_on": "2023-02-03T01:19:41.509037"
+        },
+        {
+            "authenticated": false,
+            "email": "auto1@auto",
+            "id": 5,
+            "registered_on": "2023-12-20T12:20:15.629772"
+        },
+        {
+            "authenticated": false,
+            "email": "auto2@auto",
+            "id": 6,
+            "registered_on": "2023-12-20T12:20:17.745760"
+        },
+        {
+            "authenticated": false,
+            "email": "auto3@auto",
+            "id": 7,
+            "registered_on": "2023-12-20T12:20:19.824083"
+        },
+        {
+            "authenticated": false,
+            "email": "auto4@auto",
+            "id": 8,
+            "registered_on": "2023-12-20T12:20:21.909558"
+        },
+        {
+            "authenticated": false,
+            "email": "sample_user@autotest",
+            "id": 9,
+            "registered_on": "2023-12-20T12:20:32.584115"
+        }
+    ]
+}

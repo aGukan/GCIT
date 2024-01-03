@@ -1,0 +1,305 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1703687059695" stop="1703687084522">
+  <name>APIFlaskAppTests</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1703687059695" status="passed" stop="1703687059740">
+      <name>test_allUserCount.test_getAllUserCountStatus200</name>
+      <attachments>
+        <attachment source="058138e0-6a85-41e9-b41b-11fa5e35699f-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687059780" status="passed" stop="1703687059810">
+      <name>test_allUserCount.test_getAllUserCountStatus406</name>
+      <attachments>
+        <attachment source="e2483f61-3c13-4acf-9f57-4de8d4d1500c-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687059839" status="passed" stop="1703687059866">
+      <name>test_allUserCount.test_getAllUserCountBody</name>
+      <attachments>
+        <attachment source="56f77e55-a46d-4b8b-9e7e-3030dd9d7692-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687059889" status="passed" stop="1703687059910">
+      <name>test_allUserCount.test_getALlUserCountTimeTaken</name>
+      <attachments>
+        <attachment source="81d3c3aa-228c-409d-9f4a-330482a6a175-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687059935" status="passed" stop="1703687062155">
+      <name>test_auth_demo.test_getUsersDemo</name>
+      <attachments>
+        <attachment source="d058bdfa-bbbc-45c9-bb71-2c5851704c37-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687062175" status="passed" stop="1703687070884">
+      <name>test_dataDrivenCsv.test_dataDrivenRegApi</name>
+      <attachments>
+        <attachment source="ba751fa8-f251-4458-9354-b8d6bb302f0f-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687070903" status="passed" stop="1703687070916">
+      <name>test_dataDrivenCsv.test_dataDrivenParametrized[input0-201]</name>
+      <attachments>
+        <attachment source="a2eda441-a336-4dc7-8b05-63f4cbbc8e54-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687070936" status="passed" stop="1703687070951">
+      <name>test_dataDrivenCsv.test_dataDrivenParametrized[input1-422]</name>
+      <attachments>
+        <attachment source="5963ca2f-33fb-43d6-b511-6a5777b2c8f7-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687070972" status="passed" stop="1703687070985">
+      <name>test_dataDrivenCsv.test_dataDrivenParametrized[input2-500]</name>
+      <attachments>
+        <attachment source="3cc74022-5730-45bd-a4b6-2d8fd9adeabc-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687071011" status="passed" stop="1703687071023">
+      <name>test_dataDrivenCsv.test_dataDrivenParametrized[input3-500]</name>
+      <attachments>
+        <attachment source="f2277b64-a482-4a59-a1f8-cd4b3620b4ab-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687071045" status="passed" stop="1703687071060">
+      <name>test_dataDrivenCsv.test_dataDrivenParametrized[input4-500]</name>
+      <attachments>
+        <attachment source="e7c9bdb3-d423-4b06-be65-43b926218d1e-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687071080" status="passed" stop="1703687075478">
+      <name>test_loginAPIWithSetupTeardown.test_loginCorrectCreds</name>
+      <attachments>
+        <attachment source="2ccf33e1-7ac6-49af-b673-a2365c319a6f-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="058a9381-c7da-4145-b331-1594897b4a3d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687075500" status="passed" stop="1703687077689">
+      <name>test_loginAPIWithSetupTeardown.test_loginEmptyPassword</name>
+      <attachments>
+        <attachment source="c44307e3-d5a0-40ca-8643-26e842dc6b4d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687079895" status="failed" stop="1703687082132">
+      <name>test_resgisterApi.test_registerAPI</name>
+      <failure>
+        <message>AssertionError: assert 422 == 201
+ +  where 422 = &lt;Response [422]&gt;.status_code</message>
+        <stack-trace>def test_registerAPI():
+        url = baseURI + urlPath
+        payload = getJsonFromFile(registerjsonFile)
+        resp = postApiData(url, payload)
+        print (resp.json())
+&gt;       assert resp.status_code == 201
+E       assert 422 == 201
+E        +  where 422 = &lt;Response [422]&gt;.status_code
+
+APIFlaskAppTests\test_resgisterApi.py:15: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="a5f12c67-d5ca-4e03-979e-3fc766a9618d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687082156" status="passed" stop="1703687082175">
+      <name>test_statsCodeParamterize.test_getAllUserCountStatus[application/json-200]</name>
+      <attachments>
+        <attachment source="8f21e3ff-0eb8-43eb-ab58-aacf9075c383-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687082196" status="passed" stop="1703687082216">
+      <name>test_statsCodeParamterize.test_getAllUserCountStatus[application/xml-406]</name>
+      <attachments>
+        <attachment source="5b0fc635-9bc8-4923-91aa-196fc3c04549-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687082238" status="passed" stop="1703687082255">
+      <name>test_statsCodeParamterize.test_getAllUserCountStatus[multipart/mixed-406]</name>
+      <attachments>
+        <attachment source="bcdaa3f8-57f2-4521-beb3-fd2577cae952-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687082277" status="failed" stop="1703687082300">
+      <name>test_statsCodeParamterize.test_getAllUserCountStatus[text/html-406]</name>
+      <failure>
+        <message>AssertionError: assert 200 == 406
+ +  where 200 = &lt;Response [200]&gt;.status_code</message>
+        <stack-trace>type = 'text/html', status = 406
+
+    @pytest.mark.parametrize("type, status", testData)
+    def test_getAllUserCountStatus(type, status):
+        url = baseURI + urlPath
+        headers = {'Accept': type}
+        resp = getApiData(url, headers)
+        print(resp.status_code)
+&gt;       assert resp.status_code == status
+E       assert 200 == 406
+E        +  where 200 = &lt;Response [200]&gt;.status_code
+
+APIFlaskAppTests\test_statsCodeParamterize.py:21: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="6aa4f5d7-b148-4aea-8223-a175ae150b15-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1703687082325" status="passed" stop="1703687084522">
+      <name>test_users.test_getUsers</name>
+      <attachments>
+        <attachment source="4b79ea1f-68bb-4fa7-832a-b06492287bbc-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+        <attachment source="a18debf5-ea7d-407c-a449-6c07d226d0f1-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="19540-MainThread"/>
+        <label name="host" value="Laptop-028"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

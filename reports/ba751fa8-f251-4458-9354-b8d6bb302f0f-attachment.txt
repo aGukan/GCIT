@@ -1,0 +1,20 @@
+{'email': 'auto1@auto', 'password': '1234'}
+
+ReqURL:http://127.0.0.1:5000/api/register
+ReqBody: {"email": "auto1@auto", "password": "1234"}
+{'msg': 'Username or Password Exists', 'status': 422}
+{'email': 'auto2@auto', 'password': '1234'}
+
+ReqURL:http://127.0.0.1:5000/api/register
+ReqBody: {"email": "auto2@auto", "password": "1234"}
+{'msg': 'Username or Password Exists', 'status': 422}
+{'email': 'auto3@auto', 'password': '1234'}
+
+ReqURL:http://127.0.0.1:5000/api/register
+ReqBody: {"email": "auto3@auto", "password": "1234"}
+{'msg': 'Username or Password Exists', 'status': 422}
+{'email': 'auto4@auto', 'password': '1234'}
+
+ReqURL:http://127.0.0.1:5000/api/register
+ReqBody: {"email": "auto4@auto", "password": "1234"}
+{'msg': 'Username or Password Exists', 'status': 422}

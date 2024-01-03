@@ -1,0 +1,4 @@
+
+ReqURL:http://127.0.0.1:5000/api/register
+ReqBody: {"email": "sample_user@autotest", "password": "1234"}
+{'msg': 'Username or Password Exists', 'status': 422}

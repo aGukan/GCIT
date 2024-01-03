@@ -1,0 +1,4 @@
+
+ReqURL:http://127.0.0.1:5000/api/register
+ReqBody: {"email": "automateUser@auto186", "password": "1234"}
+Inside Fixture SETUP

@@ -1,0 +1,5 @@
+
+RequestURL: http://127.0.0.1:5000/api/allusercount
+request header: {'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'multipart/mixed', 'Connection': 'keep-alive', 'Content-Type': 'application/json'}
+response header: {'Server': 'Werkzeug/3.0.1 Python/3.12.1', 'Date': 'Wed, 27 Dec 2023 14:24:42 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '338', 'Connection': 'close'}
+406
